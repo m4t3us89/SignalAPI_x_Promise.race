@@ -1,0 +1,13 @@
+{
+  "name": "promise.race",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "node --experimental-fetch --no-warnings src index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type" : "module"
+}
